@@ -10,14 +10,14 @@ tools are used: html,css,javascript
 
 # Portfolio:
 # private companies:
-![]()
+![](Hackoton/htdocs/images/111.PNG)
 # publlic companies:
 ![]()
 # Team:
-![]()
+![](Hackoton/htdocs/images/113.PNG)
 # Employee:
-![]()
+![](Hackoton/htdocs/images/114.PNG)
 # About:
-![]()
+![](Hackoton/htdocs/images/Group%207.png)
 # Reach Us:
-![]()
+![](Hackoton/htdocs/images/Desktop%20-%201.png)
